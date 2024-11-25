@@ -22,7 +22,7 @@ Add the following dependency in your app's build.gradle:
 ```gradle
 
 dependencies {
-    implementation 'com.github.AnurupJaiswal:CustomToast:1.0.8'
+    implementation 'com.github.AnurupJaiswal:InstaDotIndicatorLibrary:v1.0.0'
 }
 ```
 ### Step 3: Layout
