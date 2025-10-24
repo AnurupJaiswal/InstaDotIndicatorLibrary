@@ -72,6 +72,7 @@ instaDotViewInstance.setVisibleDotCounts(pages)
    <attr name="dots_visible" format="integer" />
 ```
 
-
+![InstaDotView Demo]
+![instadot_demo](https://github.com/user-attachments/assets/2ef1b383-f44b-4aa2-9220-41d4e2d310ea)
 
 
